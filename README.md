@@ -21,7 +21,9 @@
 ## 📂 Projects
 - Smart Plant Monitoring System
 - AI + IoT Smart Garbage Segregation
+## 📄 Resume
 
+[📥 Download My Resume](resume-janasree.pdf)
 ## 📫 Contact
 - Email: janasreeb79@gmail.com
 - LinkedIn: www.linkedin.com/in/janasreeb
