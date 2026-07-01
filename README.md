@@ -1,16 +1,27 @@
-## Hi there 👋
+<p align="center">
+  <img src="janasree.jpeg" alt="Janasree" width="180"/>
+</p>
+# Hi, I'm Janasree 👋
 
-<!--
-**janasreeb79/janasreeb79** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech in Electronics and Communication Engineering (ECE)
 
-Here are some ideas to get you started:
+## 👩‍💻 About Me
+- Passionate about IoT, and Cloud Computing
+- Learning AWS Cloud
+- Interested in Embedded Systems and Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+- C
+- Python
+- Java
+- Embedded C
+- AWS
+- IoT
+
+## 📂 Projects
+- Smart Plant Monitoring System
+- AI + IoT Smart Garbage Segregation
+
+## 📫 Contact
+- Email: janasreeb79@gmail.com
+- LinkedIn: www.linkedin.com/in/janasreeb
